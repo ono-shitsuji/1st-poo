@@ -7,6 +7,8 @@
 </head>
 <body>
     <a href="index.php">another way</a>
-    <a href="/exos/product.php">Exercices</a>
+    <a href="/exos/product.php">Exercice 1</a>
+    <a href="/exos/productp2.php">Exercice 2</a>
+    <a href="/exos/productp3.php">Exercice 3</a>
 </body>
 </html>
