@@ -24,7 +24,7 @@
    
     $mist = new  product1();
 
-    $mist->quantity = ('100');
+    $mist->whatever = ('100');
     $mist->set = "£";
 
     
